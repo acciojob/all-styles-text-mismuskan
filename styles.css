@@ -3,8 +3,9 @@
 .main{
 	Width: 200px;
 	Background-color:purple;
-	border-left-color:green;
+/* 	border-left-color:green; */
 	border-left-width:5px;
+	   border-left: 5px solid green;
 	padding:10px;
 }
 #heading{
